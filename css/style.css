@@ -1,9 +1,10 @@
 body {
     margin-top: 150px;
-    margin-left: 500px;
+    margin-left: 550px;
     padding: 10px;
     font-family: Arial, Helvetica. sans-serif;
-    background-color: lightgray;
+    background-image: url('https://rsaude.com.br/img/noticias/g/alimentacao-x-atividade-fisica-28092018085258.jpg')
+
 }
 
 #paragraph-result {
