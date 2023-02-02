@@ -8,10 +8,23 @@ body {
 }
 
 #paragraph-result {
-    margin-top: 50px;
+    margin-top: 30px;
 }
 
 input {
     margin-top: 5px;
     width: 200px;
+}
+
+#button-calculate-imc {
+    width: 208px;
+    height: 30px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-size: 15px;
+}
+
+#button-calculate-imc:hover {
+    color: white;
+    background-color: black;
 }
